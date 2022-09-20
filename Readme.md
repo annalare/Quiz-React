@@ -1,1 +1,5 @@
-Quiz React em inglês com consumo de uma API pública e styled component
+Quiz Game!!!
+
+- Projeto produzido em React, Typescript e Styled Components.
+- Consumo de uma Api pública de trivia
+- Game em inglês
